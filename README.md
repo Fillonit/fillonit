@@ -2,7 +2,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1612894109/12453/red_heart.png?1612894109" width="30"/> Hey! Nice to see you.</h1>
 
 
+
 <p>Welcome to my page! </br> I'm Fillonit, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Prishtinë, Kosovo</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Ferizaj, Kosovo</b>. </p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffillonit&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
