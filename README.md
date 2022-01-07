@@ -3,10 +3,10 @@
 <p>Welcome to my github! </br> I'm Fillonit, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Prishtinë, Kosovo</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Ferizaj, Kosovo</b>. </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffillonit&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <br/>
-<p> Languages </p>
+
+<p style="font-size: 24px;"><strong>Languages</strong></p>
 
 ---
-
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img alt="MarkDown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 
 <h2> Framewoks </h2>
