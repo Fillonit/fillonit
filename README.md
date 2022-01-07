@@ -3,7 +3,7 @@
 <p>Welcome to my github! </br> I'm Fillonit, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Prishtinë, Kosovo</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197486.png" width="13"/> <b>Ferizaj, Kosovo</b>. </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffillonit&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <br/>
-<h2> Languages </h2>
+<p> Languages </p>
 
 ---
 
