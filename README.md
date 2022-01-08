@@ -1,8 +1,8 @@
-<p>Welcome to my github! </br> I'm Fillonit, Fullstack developer from <b>Prishtinë, Kosovo</b>, currently living in <b>Ferizaj, Kosovo</b>. </p>
+<p>Welcome to my github!</br>I'm Fillonit, Fullstack developer from <b>Prishtinë, Kosovo</b>, currently living in <b>Ferizaj, Kosovo</b>. </p>
 
 <img  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffillonit&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
 <br/>
-<h2> Languages </h2>
+<h2>Languages</h2>
 
 <img  alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,7 +11,7 @@
 
   
 
-<h2> Framewoks </h2>
+<h2>Framewoks</h2>
 
 <img  alt="TypeScript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img  alt="Express.js"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
