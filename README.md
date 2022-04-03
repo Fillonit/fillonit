@@ -51,4 +51,5 @@
 <img  alt="Sublime"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
 <img  alt="VS"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=liwesdgpsa2jdtlqpp0wx4dvp&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=liwesdgpsa2jdtlqpp0wx4dvp&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
