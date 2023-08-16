@@ -10,7 +10,6 @@ Full Stack Developer
 
 
 <img  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffillonit&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-<br/>
 
 ### Skills
 
@@ -32,6 +31,12 @@ Full Stack Developer
 
 
 
-<h2> My GitHub Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=fillonit&show_icons=true&hide=prs,issues&count_private=true&hide_border=true&show_icons=true&theme=dark" width="45%" align="left"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fillonit&hide_border=true&theme=dark" width="45%" align="right"/>
+### My GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fillonit&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fillonit&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fillonit&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fillonit&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fillonit&theme=aura_dark&utcOffset=8)
+
+
