@@ -3,7 +3,7 @@ Hi 👋 My name is Fillonit Ibishi
 Full Stack Developer
 --------------------------------
 
-* 🖥️  See my portfolio at [https://filloniti.vercel.app](https://filloniti.vercel.app/)
+* 🖥️  See my portfolio at [fillonit.tech](https://fillonit.tech/)
 * ✉️  You can contact me at [filloniti@gmail.com](mailto:filloniti@gmail.com)
 * 🧠  I'm currently learning Go
 * 🤝  I'm open to collaborating on new frameworks/projects
