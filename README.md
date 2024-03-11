@@ -4,7 +4,7 @@ Full Stack Developer
 --------------------------------
 
 * 🖥️  See my portfolio at [fillonit.tech](https://fillonit.tech/)
-* ✉️  You can contact me at [filloniti@gmail.com](mailto:filloniti@gmail.com)
+* ✉️  You can contact me at [contact@fillonit.tech](mailto:contact@fillonit.tech)
 * 🧠  I'm currently learning Go
 * 🤝  I'm open to collaborating on new frameworks/projects
 
